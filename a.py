@@ -1,4 +1,4 @@
-import mysql.connector
+# import mysql.connector
 import streamlit as st
 import sqlite3 
 conn = sqlite3.connect("example.db")
